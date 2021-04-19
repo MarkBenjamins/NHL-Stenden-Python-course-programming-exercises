@@ -1,1 +1,4 @@
-This is the introduction to week 2
+# :pencil: Week 2 exercises 
+
+
+## Execise 2.1
