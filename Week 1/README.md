@@ -11,4 +11,4 @@ We will also install Python and set up the develepment environment.
 ## Execise 1.1 Hello World
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
-![Gif](https://resources.jetbrains.com/help/img/idea/2021.1/py_quick_start_step1.animated.gif)
+![Gif](https://cdn.discordapp.com/attachments/682139220453752854/833708878570061824/yeet.gif)
