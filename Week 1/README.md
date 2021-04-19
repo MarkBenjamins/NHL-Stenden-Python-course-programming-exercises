@@ -9,6 +9,6 @@ We will also install Python and set up the develepment environment.
 - After this, select PyCharm out of the options and click on [download](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
 
 ## Execise 1.1 Hello World
+https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
-
-![Alt Text](https://resources.jetbrains.com/help/img/idea/2021.1/py_quick_start_step1.animated.gif)
+![Gif](https://resources.jetbrains.com/help/img/idea/2021.1/py_quick_start_step1.animated.gif)
