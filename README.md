@@ -4,7 +4,7 @@ It also contains examples for each week that will help you with new or complicat
 For extra difficult actions, like setting up Python or using the simulator, we have provided manuals in the [manuals]() folder. 
 The exercises will be ordered by week and they each have their own folder, and the relevant examples will also be provided in the same "week folder".
 
-## Course Python the first flight
+## :closed_book: Course Python the first flight
 In this module the students learn the fundamentals from Python. 
 Using the assignments that get more difficult as the period advances, the students learn to write simple Python programs. 
 The students will also learn to use GitHub for version control, because all of the assignments and examples are available through GitHub, and the drone assignments also have to be executed through GitHub. 
