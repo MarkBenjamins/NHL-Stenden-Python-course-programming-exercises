@@ -1,1 +1,4 @@
-This is the introduction to week 3
+# :pencil: Week 3 exercises 
+
+
+## Execise 3.1
