@@ -8,7 +8,7 @@ The exercises will be ordered by week and they each have their own folder, and t
 In this module the students learn the fundamentals from Python. 
 Using the assignments that get more difficult as the period advances, the students learn to write simple Python programs. 
 The students will also learn to use GitHub for version control, because all of the assignments and examples are available through GitHub, and the drone assignments also have to be executed through GitHub. 
-The final assignment will also teach the students the basics of AI and the Student will explore the possibilities that AI offers.
+The final assignment will also teach the students the basics of AI and the Student will explore the possibilities that it offers.
 
 ## Authors
 - Mark Benjamins [GitHub](https://github.com/MarkBenjamins)
