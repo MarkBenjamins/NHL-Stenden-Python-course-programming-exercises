@@ -12,3 +12,5 @@ We will also install Python and set up the develepment environment.
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
 ![Gif](https://cdn.discordapp.com/attachments/682139220453752854/833708878570061824/yeet.gif)
+
+<img src="https://cdn.discordapp.com/attachments/682139220453752854/833708878570061824/yeet.gif" width="40" height="40" />
