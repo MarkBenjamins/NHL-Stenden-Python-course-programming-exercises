@@ -1,1 +1,4 @@
-This is the introduction to week 4
+# :pencil: Week 4 exercises 
+
+
+## Execise 4.1
