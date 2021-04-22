@@ -1,6 +1,6 @@
 # Loops
 
-Just like any other languages, Python has a way to loop certain code. Here are some detailed examples that shows how the code works
+Just like any other languages, Python has a way to loop certain code. Here are some detailed examples that shows how the code works.
 
 ### For (each) loop
 
