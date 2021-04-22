@@ -7,12 +7,12 @@ You will accomplice this through the command lines within PyCharm.
 
 Next you will need to clone the git directory from the simulation
 
-2. run the command  `git clone https://github.com/Fireline-Science/tello_sim`
+2. Run the command  `git clone https://github.com/Fireline-Science/tello_sim`
 
 Lastly you will to locate the file directory and install it
 
-3. run the command `cd tello_sim`
-4. run the command `pip install`
+3. Run the command `cd tello_sim`
+4. Run the command `pip install`
 
 ## More information
 For more information go to [link](https://github.com/Fireline-Science/tello_sim)
