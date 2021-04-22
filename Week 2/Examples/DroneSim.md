@@ -3,7 +3,6 @@
 ***To use the simulator we first have to obtain it, how to do this is described in the [manual](/Week%202/Manual%20Simulation/README.md).***
 
 ## :earth_africa: Creation
-
 First we have to create the drone, this is done by importing the required library and assigning a variable as shown below;
 
 ```python
@@ -22,7 +21,6 @@ I am running your "command" command.
 ```
 
 ## :rocket: Takeoff
-
 As we can see the drone is ready to take off;
 
 ```python
@@ -40,11 +38,9 @@ My estimated takeoff altitude is 81 centimeters
 Now the drone is ready to fly and we can preform several commands.
 
 ## :airplane: Flying commands
-
 There are several commands to fly in the air, we have separated them in four categories
 
 ### :left_right_arrow: Horizontal flying
-
 We can use the forward command to fly forward, the back command to fly backwards, the right command to fly to the right and the left command, in centimeters.
 
 ```python
@@ -55,7 +51,6 @@ drone.left(40)
 ```
 
 ### :arrow_up_down: Vertical flying
-
 We can use the up and down commands to change the drone's altitude, in centimeters.
 
 ```python
@@ -71,8 +66,7 @@ direction = "f"
 drone.flip(direction)
 ```
 
-### :arrows_counterclockwise:Turning
-
+### :arrows_counterclockwise: Turning
 We can use the cw command to turn clockwise and the ccw command to turn counterclockwise, in amount of degrees.
 
 ```python
@@ -81,40 +75,36 @@ drone.ccw(90)
 ```
 
 ### :floppy_disk: Data
-
 We can also retrieve data like positions with the following commands;
 
 ```python
-# Return the current altitude
+# Return the current altitude.
 drone.altitude
 
-# Return the current rotation
+# Return the current rotation.
 drone.bearing
 
-# Return the current location(X,Y)
+# Return the current location(X,Y).
 drone.cur_loc
 
-# Return all of the different altitudes
+# Return all of the different altitudes.
 drone.altitude_data
 
-# Return all of the different locations
+# Return all of the different locations.
 drone.path_coors
 
-# Return the locations where the drone flipped
+# Return the locations where the drone flipped.
 drone.flip_coors
 
-# Return a list of all the commands executed
+# Return a list of all the commands executed.
 drone.command_log
 ```
 
 ## :chart_with_upwards_trend: Graph
-
 When you execute a movement command the drone simulator will create a graph where you can see the path the drone followed, here are some examples;
 
 ### vertical
-
 ![PNG](/Media/verGraph.png)
 
 ### horizontal
-
 ![PNG](/Media/horGraph.png)
