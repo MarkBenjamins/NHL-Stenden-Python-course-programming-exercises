@@ -1,5 +1,5 @@
 # :school: NHL-Stenden-Python-course-programming-exercises
-This file will contain all of the exercises for this module. 
+This repository will contain all of the exercises for this module. 
 It also contains examples for each week that will help you with new or complicated functions. 
 There are manuals provided for the difficult tasks, like using the simulator or the drone. These manuals are located within the manuals folder of the specific week.
 The exercises will be ordered by week and they each have their own folder, and the relevant examples will also be provided in the same "week folder".
