@@ -1,6 +1,8 @@
 # Loops
 
-Just like any other languages, Python has a way to loop certain code. Here is a detailed example that shows how the code works;
+Just like any other languages, Python has a way to loop certain code. Here are some detailed examples that shows how the code works
+
+### For (each) loop
 
 ```python
 # An array in python that contains 3 elements
@@ -34,7 +36,9 @@ inside of the loop we can do whatever we want, and x is the current iteration in
 
 in Python this is marked by indentations, so its extra important that you keep you code clean.
 
-There are of course other types of loops, like the for loop. Here are some example of the for loop;
+### For loop
+
+The for loop can also be used a set amount of times with the range function, here are some examples;
 
 ```python
 #this is a for loop
@@ -52,6 +56,8 @@ for x in range(4, 21, 2):
     print(x)
 # it prints 4 8 12 16 an 20. So it prints 4 to 20, with steps of 4
 ```
+
+### While loop
 
 The last loop in python is the while loop, it looks like this;
 
