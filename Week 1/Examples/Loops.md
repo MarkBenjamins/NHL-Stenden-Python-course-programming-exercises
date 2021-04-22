@@ -1,8 +1,10 @@
 # Loops
 
-Just like any other languages, Python has a way to loop certain code. Here are some detailed examples that shows how the code works
+Just like any other languages, Python has a way to loop certain code. Here are some detailed examples that shows how the code works.
 
 ### For (each) loop
+
+In Python a For loop is used to "create" a foreach loop, this can be achieved by using the "in" keyword as shown below.
 
 ```python
 # An array in python that contains 3 elements
