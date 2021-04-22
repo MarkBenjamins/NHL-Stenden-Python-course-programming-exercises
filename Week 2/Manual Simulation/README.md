@@ -1,3 +1,4 @@
+# Simulation setup
 To use the simulation, you'll need to download an library.
 
 You will accomplice this through the command lines within PyCharm.
@@ -13,3 +14,5 @@ Lastly you will to locate the file directory and install it
 3. run the command `cd tello_sim`
 4. run the command `pip install`
 
+## More information
+For more information go to [link](https://github.com/Fireline-Science/tello_sim)
