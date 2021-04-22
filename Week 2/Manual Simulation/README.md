@@ -1,4 +1,4 @@
-# Simulation setup
+# :gear: Simulation setup
 To use the simulation, you'll need to download an library.
 
 You will accomplice this through the command lines within PyCharm.
