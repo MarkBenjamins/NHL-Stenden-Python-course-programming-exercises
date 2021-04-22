@@ -22,9 +22,9 @@ As stated in the title, this exercise revolves around the words "Hello World". T
 - A new Python file has to be made, named "Hello World".
 - Once run, "Hello World" should be printed out.
 
-## ::package::Exercise 1.2; Variables
-
-In this exercise we will start using variables. Just like with the loops, you should already have some experience with variables. In this examples folder you will find useful information that should aid you through this exercise.
+## :package: Exercise 1.2; Variables
+In this exercise we will start using variables. Just like with the loops, you should already have some experience with variables. 
+In the [examples folder](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/tree/main/Week%201/Examples) you will find useful information that should aid you through this exercise.
 
 The first exercise is to assign something to the variable and print out the following phrase.
 
