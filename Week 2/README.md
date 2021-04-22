@@ -25,24 +25,24 @@ For more information go to [link](https://github.com/Fireline-Science/tello_sim)
 In the first exercise we fly a simple square in our simulation. 
 You are expected to get the following output as result.
 
-<img src="/Media/Exercise%202.1%20Week%202.png" width="100"/>
+<img src="/Media/Exercise%202.1%20Week%202.png" width="300"/>
 
 ## Exercise 2.2
 
 In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement.
 
-![Horizontal Graph](/Media/horGraph.png){: height="100px" width="100px" align="left"}
+<img src="/Media/horGraph.png" width="300"/>
 
 You also have to replicate the following vertical shape, edit you code so it does both at the same time.
 
-![Horizontal Graph](/Media/verGraph.png){: height="100px" width="100px" align="left"}
+<img src="/Media/verGraph.png" width="300"/>
 
 ## Exercise 2.3
 
 In this exercise we will use a for loop to create circles. Try to recreate the following shape with a nested for loop;
 
-![Horizontal Graph](/Media/LoopShape.png){: height="100px" width="100px" align="left"}
+<img src="/Media/LoopShape.png" width="300"/>
 
 Use the following turns with degrees
 
-![Horizontal Graph](/Media/angle's.png){: height="100px" width="100px" align="left"}
+<img src="/Media/angle's.png" width="300"/>
