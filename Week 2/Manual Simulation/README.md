@@ -9,7 +9,7 @@ Next you will need to clone the git directory from the simulation
 
 2. Run the command  `git clone https://github.com/Fireline-Science/tello_sim`
 
-Lastly you will to locate the file directory and install it
+Lastly you will to locate the file directory and install it.
 
 3. Run the command `cd tello_sim`
 4. Run the command `pip install`
