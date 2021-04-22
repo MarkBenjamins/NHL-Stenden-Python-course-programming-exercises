@@ -25,7 +25,7 @@ For more information go to [link](https://github.com/Fireline-Science/tello_sim)
 In the first exercise we fly a simple square in our simulation. 
 You are expected to get the following output as result.
 
-![Flight output](/Media/Exercise%202.1%20Week%202.png =100x100)
+![Flight output](/Media/Exercise%202.1%20Week%202.png =100x)
 
 ## Exercise 2.2
 
