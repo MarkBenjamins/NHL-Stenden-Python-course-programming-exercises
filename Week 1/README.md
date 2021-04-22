@@ -9,20 +9,26 @@ We will also install Python and set up the development environment.
 - After this, select PyCharm out of the options and click on [download](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
 
 ## :wave: Exercise 1.1 Hello World
-For the exercise we will start with setting up the environment. You will start by creating a new project  within PyCharm. Next you create a new Python file in which you'll write your code. When you are done with your code, you'll run it to see if it works. For additional explanation, consult the gif below.
+For the exercise we will start with setting up the environment. 
+You will start by creating a new project  within PyCharm. 
+Next you create a new Python file in which you'll write your code. 
+When you are done with your code, you'll run it to see if it works. 
+For additional explanation, consult the gif below.
 
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
 ![Gif](/Week%201/Python_gif_1.gif)
 
 
-As stated in the title, this exercise revolves around the words "Hello World". The objective of this exercise is to be print out the "Hello World" text within your editor. To clear the exercise, a few checkpoints have to be reached.
+As stated in the title, this exercise revolves around the words "Hello World". 
+The objective of this exercise is to be print out the "Hello World" text within your editor. 
+To clear the exercise, a few checkpoints have to be reached.
 
 - A new project has to be made, named "Exercises Week 1".
 - A new Python file has to be made, named "Hello World".
 - Once run, "Hello World" should be printed out.
 
-## :package: Exercise 1.2; Variables
+## :package: Exercise 1.2 Variables
 In this exercise we will start using variables. You should already have some experience with variables. 
 In the [examples folder](/Week%201/Examples) you will find useful information that should aid you through this exercise.
 
@@ -66,7 +72,8 @@ e = 36
 expected output = 6
 ```
 
-The last exercise is to convert the variable number from Celsius to Fahrenheit. You are expected to handle the errors through the use of an if-else statement.  
+The last exercise is to convert the variable number from Celsius to Fahrenheit. 
+You are expected to handle the errors through the use of an if-else statement.  
 
 ```python
 temperature_number = 20
@@ -78,9 +85,12 @@ expected output if failed: The conversion was preformed incorrectly.
 
 
 
-## :repeat: Exercise 1.3; Loops
+## :repeat: Exercise 1.3 Loops
 
-In this exercise we will use some loops in Python. You already learned how loops work with the PHP Lessons, so this should not be too hard. In Python loops are very similar, the main difference is that they are declared differently. In the [examples folder](/Week%201/Examples) you will find some useful examples on how the [loops](/Week%201/Examples/Loops.md) in Python work.
+In this exercise we will use some loops in Python. 
+You already learned how loops work with the PHP Lessons, so this should not be too hard. 
+In Python loops are very similar, the main difference is that they are declared differently. 
+In the [examples folder](/Week%201/Examples) you will find some useful examples on how the [loops](/Week%201/Examples/Loops.md) in Python work.
 
 The first assignment is to print this with a while loop;
 
