@@ -24,7 +24,7 @@ As stated in the title, this exercise revolves around the words "Hello World". T
 
 ## Exercise 1.2; Loops
 
-In this exercise we will use some loops in Python. You already learned how loops work with the PHP Lessons, so this should not be too hard. In Python loops are very similar, the main difference is that they are declared differently. In the examples folder you will find some useful examples on how the loops in python work.
+In this exercise we will use some loops in Python. You already learned how loops work with the PHP Lessons, so this should not be too hard. In Python loops are very similar, the main difference is that they are declared differently. In the [examples folder](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Examples/ForLoop.md) you will find some useful examples on how the loops in Python work.
 
 The first assignment is to print this with a while loop;
 
