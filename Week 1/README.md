@@ -46,15 +46,15 @@ Just like in PHP, you can also use loops in loops.
 The next assignment is to print this with a for loop;
 
 ```
-1 1
-1 2
-1 3
-2 1
-2 2
-2 3
-3 1
-3 2
-3 3
+11
+12
+13
+21
+22
+23
+31
+32
+33
 ```
 
 You can also loop through arrays, an array is a list of variables.

@@ -54,9 +54,9 @@ for x in range(3, 9):
 # It prints 3 to 8.
 
 # This is also a for loop.
-for x in range(4, 21, 2):
+for x in range(4, 21, 4):
     print(x)
-# It prints 4 8 12 16 an 20. So it prints 4 to 20, with steps of 4.
+# It prints 4 8 12 16 and 20. So it prints 4 to 20, with steps of 4.
 ```
 
 ### While loop
