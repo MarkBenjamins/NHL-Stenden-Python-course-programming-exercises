@@ -14,3 +14,11 @@ For the exercise we will start with setting up the environment.
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
 ![Gif](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Python_gif_1.gif)
+
+Next we will use the print command, try typing print(). in-between the parenthesis you can add a string, so try adding some text between some quotes.
+
+```python
+print("Some text")
+```
+
+Now try to print Hello World.
