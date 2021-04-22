@@ -38,10 +38,10 @@ My estimated takeoff altitude is 81 centimeters
 Now the drone is ready to fly and we can preform several commands.
 
 ## :airplane: Flying commands
-There are several commands to fly in the air, we have separated them in four categories
+There are several commands to fly in the air, we have separated them in four categories.
 
 ### :left_right_arrow: Horizontal flying
-We can use the forward command to fly forward, the back command to fly backwards, the right command to fly to the right and the left command, in centimeters.
+We can use the forward command to fly forward, the back command to fly backwards, the right command to fly to the right and the left command to fly to the left, all in centimeters.
 
 ```python
 drone.forward(40)
