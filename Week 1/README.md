@@ -13,7 +13,7 @@ For the exercise we will start with setting up the environment. You will start b
 
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
-![Gif](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Python_gif_1.gif)
+![Gif](/Week%201/Python_gif_1.gif)
 
 
 As stated in the title, this exercise revolves around the words "Hello World". The objective of this exercise is to be print out the "Hello World" text within your editor. To clear the exercise, a few checkpoints have to be reached.
