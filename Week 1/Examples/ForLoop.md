@@ -24,7 +24,7 @@ countries = ["Netherlands", "England", "Germany", "Denmark"]
 for x in countries:
 ```
 
-inside of the loop we can do whatever we want, and x is the current iteration in the loop, so we can use that to process as show below
+inside of the loop we can do whatever we want, and x is the current iteration in the loop, so we can use the x variable to preform calculations or other manipulations as show below
 
 ```python
  print(x)
