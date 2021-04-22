@@ -31,8 +31,18 @@ You are expected to get the following output as result.
 
 In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement.
 
+![Horizontal Graph](/Media/horGraph.png)
+
 You also have to replicate the following vertical shape, edit you code so it does both at the same time.
+
+![Horizontal Graph](/Media/verGraph.png)
 
 ## Exercise 2.3
 
 In this exercise we will use a for loop to create circles. Try to recreate the following shape with a nested for loop;
+
+![Horizontal Graph](/Media/LoopShape.png)
+
+Use the following turns with degrees
+
+![Horizontal Graph](/Media/angle's.png)
