@@ -22,7 +22,65 @@ As stated in the title, this exercise revolves around the words "Hello World". T
 - A new Python file has to be made, named "Hello World".
 - Once run, "Hello World" should be printed out.
 
-## :repeat: Exercise 1.2; Loops
+## ::package::Exercise 1.2; Variables
+
+In this exercise we will start using variables. Just like with the loops, you should already have some experience with variables. In this examples folder you will find useful information that should aid you through this exercise.
+
+The first exercise is to assign something to the variable and print out the following phrase.
+
+```
+filler_text =
+
+print("The Ducks follow", filler_text, "across the road.")
+
+expected output: The Ducks follow their mother across the road
+```
+
+
+
+The second exercise is get the defined output by means of adding and subtracting the variables together.
+
+```
+x = 7
+y = 8
+z = 5
+
+expected output: 6
+```
+
+The third exercise is to get the defined outputs through using different operations.
+
+```
+#Calculate the square value.
+a = 5
+
+expected output: 25
+
+#Calculate the rest value.
+c = 10
+d = 3
+
+expected output = 1
+
+#Calculate the root value.
+e = 36
+
+expected output = 6
+```
+
+The last exercise is to convert the variable number from Celsius to Fahrenheit. You are expected to handle the errors through the use of an if-else statement.  
+
+```
+temperature_number = 20
+
+expected output if success: 68
+
+expected out if failed: The conversion was not done correctly.
+```
+
+
+
+## :repeat: Exercise 1.3; Loops
 
 In this exercise we will use some loops in Python. You already learned how loops work with the PHP Lessons, so this should not be too hard. In Python loops are very similar, the main difference is that they are declared differently. In the [examples folder](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Examples) you will find some useful examples on how the [loops](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Examples/Loops.md) in Python work.
 
