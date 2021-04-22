@@ -8,7 +8,7 @@ We will also install Python and set up the develepment environment.
 - Create a student account by filling in the [form](https://www.jetbrains.com/shop/eform/students?_st=phGZYaLDwIFGzailE1uoJf-YSAMxYl0W9cCb_fmXojmwSBZwGwGLnwzHtxOrCGvc)
 - After this, select PyCharm out of the options and click on [download](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
 
-## Exercise 1.1 Hello World
+## :wave: Exercise 1.1 Hello World
 For the exercise we will start with setting up the environment. You will start by creating a new project  within PyCharm. Next you create a new Python file in which you'll write your code. When you are done with your code, you'll run it to see if it works. For futher clarification, consult the gif below.
 
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
@@ -22,9 +22,9 @@ As stated in the title, this exercise revolves around the words "Hello World". T
 - A new Python file has to be made, named "Hello World".
 - Once run, "Hello World" should be printed out.
 
-## Exercise 1.2; Loops
+## :repeat: Exercise 1.2; Loops
 
-In this exercise we will use some loops in Python. You already learned how loops work with the PHP Lessons, so this should not be too hard. In Python loops are very similar, the main difference is that they are declared differently. In the [examples folder](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Examples) you will find some useful examples on how the loops in Python work.
+In this exercise we will use some loops in Python. You already learned how loops work with the PHP Lessons, so this should not be too hard. In Python loops are very similar, the main difference is that they are declared differently. In the [examples folder](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Examples) you will find some useful examples on how the [loops](https://github.com/MarkBenjamins/NHL-Stenden-Python-course-programming-exercises/blob/main/Week%201/Examples/Loops.md) in Python work.
 
 The first assignment is to print this with a while loop;
 
