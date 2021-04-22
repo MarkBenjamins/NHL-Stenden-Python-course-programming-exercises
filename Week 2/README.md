@@ -26,3 +26,13 @@ In the first exercise we fly a simple square in our simulation.
 You are expected to get the following output as result.
 
 ![Flight output](/Media/Exercise%202.1%20Week%202.png)
+
+## Exercise 2.2
+
+In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement.
+
+You also have to replicate the following vertical shape, edit you code so it does both at the same time.
+
+## Exercise 2.3
+
+In this exercise we will use a for loop to create circles. Try to recreate the following shape with a nested for loop;
