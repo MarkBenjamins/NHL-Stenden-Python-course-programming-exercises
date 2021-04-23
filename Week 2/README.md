@@ -40,6 +40,6 @@ In this exercise we will use a for loop to create circles. Try to recreate the f
 
 <img src="/Media/LoopShape.png" width="300"/>
 
-Use the following turns with degrees
+Use the following turns with degrees.
 
 <img src="/Media/angle's.png" width="300"/>
