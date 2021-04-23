@@ -7,7 +7,7 @@ Just like any other languages, Python has a way to loop certain code. Here are s
 In Python a For loop is used to "create" a foreach loop, this can be achieved by using the "in" keyword as shown below.
 
 ```python
-# An array in Python that contains 3 elements.
+# An list in Python that contains 3 elements.
 countries = ["Netherlands", "England", "Germany", "Denmark"]
 # This is the loop, in this case its a foreach loop.
 # It loops through all of the countries.
@@ -21,7 +21,7 @@ for x in countries:
 # This is the end of the for loop.
 ```
 
-As you can see we loop through all of the elements in the array, shown here.
+As you can see we loop through all of the elements in the list, shown here.
 
 ```python
 countries = ["Netherlands", "England", "Germany", "Denmark"]
@@ -36,7 +36,7 @@ Inside of the loop we can do whatever we want, and x is the current iteration in
  	print("Nederland")
 ```
 
-In Python this is marked by indentations, so its extra important that you keep you code clean.
+In Python the end of a loop is marked by indentations, so its extra important that you keep you code clean.
 
 ### For loop
 
