@@ -20,7 +20,7 @@ Lastly you will to locate the file directory and install it.
 
 For more information go to [link](https://github.com/Fireline-Science/tello_sim)
 
-## :white_square_button: Exercise 2.1 square
+## Exercise 2.1 square
 In the first exercise we fly a simple square in our simulation. 
 You are expected to get the following output as result.
 
