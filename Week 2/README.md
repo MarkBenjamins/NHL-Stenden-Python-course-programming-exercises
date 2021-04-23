@@ -26,7 +26,7 @@ You are expected to get the following output as result.
 
 <img src="/Media/Exercise%202.1%20Week%202.png" width="300"/>
 
-## Exercise 2.2 shapes
+## Exercise 2.2 shape
 In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement.
 
 <img src="/Media/horGraph.png" width="300"/>
@@ -35,7 +35,7 @@ You also have to replicate the following vertical shape, edit you code so it doe
 
 <img src="/Media/verGraph.png" width="300"/>
 
-## Exercise 2.3
+## Exercise 2.3 circle
 In this exercise we will use a for loop to create circles. Try to recreate the following shape with a nested for loop.
 
 <img src="/Media/LoopShape.png" width="300"/>
