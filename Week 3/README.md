@@ -5,4 +5,5 @@ Doing thinks like this will make us comfortable with flying the drone.
 
 ## :gear: Drone connection setup
 
+
 ## Exercise 3.1
