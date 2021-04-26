@@ -43,8 +43,8 @@ commandsDict = {
 }
 ```
 
-Your code should preform the commands in this dictionary. You should try to stop the command from running if it the value is 0.
+Your code should preform the commands in this dictionary. 
 
 ## Exercise 3.2
 
-In this exercise we will expand our code from the last assignment. We will preform some error handling so the drone does not crash into the ground.
+In this exercise we will expand our code from the last assignment. You will preform some error handling so the drone does not crash into the ground. You should also stop the drone from running if the value is 0.
