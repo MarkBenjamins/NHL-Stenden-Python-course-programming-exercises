@@ -7,7 +7,7 @@ Doing thinks like this will make us comfortable with flying the drone.
 
 ## Exercise 3.1
 
-The first exercise is to process the following command, this command is structured in a dictionary and to use
+The first exercise is to process the following command, this command is structured in a dictionary so we see all of the options at once.
 
 ```python
 command = {
@@ -25,7 +25,7 @@ command = {
 }
 ```
 
-If your code implements all of the different commands, you can experiment with different commands, like this;
+If your code implements all of the different commands, you can expand the dictionary with different commands, like this;
 
 ```python
 commandsDict = {
