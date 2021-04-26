@@ -1,6 +1,7 @@
-#### Directory Example
-
-In the example below we are trying to go right 40, left 20, forward 25 then right again 15. The problem that arises here is that you can only use a key once. If used more, then the last used time will just simple overwrite the other uses.
+# Directory Example
+In the example below we are trying to go right 40, left 20, forward 25 then right again 15. 
+The problem that arises here is that you can only use a key once.
+If used more, then the last used time will just simple overwrite the other uses.
 
 Example List.
 
