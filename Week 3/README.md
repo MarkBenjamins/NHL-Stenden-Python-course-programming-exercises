@@ -25,7 +25,7 @@ command = {
 }
 ```
 
-Your code should loop through the dictionary and execute according to the key and value. if the key is 'right' and the value is 80, the drone should go 80 to the right.
+Your code should loop through the dictionary and execute according to the key and value pair. If the key is 'forward' and the value is 80, the drone should go forward by 80.
 
 If your code implements all of the different commands, you can expand the dictionary with other commands, like this;
 
