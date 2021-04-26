@@ -41,7 +41,7 @@ commandsDict = {
 }
 ```
 
-Your code should preform the commands in this dictionary. You should try to stop the command from running if it runs 0.
+Your code should preform the commands in this dictionary. You should try to stop the command from running if it the value is 0.
 
 ## Exercise 3.2
 
