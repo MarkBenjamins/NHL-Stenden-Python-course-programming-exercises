@@ -7,7 +7,7 @@ Doing thinks like this will make us comfortable with flying the drone.
 
 ## Exercise 3.1
 
-The first exercise is to process the following command, this command is structured in a dictionary and to use
+The first exercise is to process the following command, this command is structured in a dictionary and to use.
 
 ```python
 command = {
