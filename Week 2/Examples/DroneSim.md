@@ -104,7 +104,9 @@ drone.command_log
 When you execute a movement command the drone simulator will create a graph where you can see the path the drone followed, here are some examples;
 
 ### vertical
-![PNG](/Media/verGraph.png)
+
+<img src="/Media/verGraph.png" width="400"/>
 
 ### horizontal
-![PNG](/Media/horGraph.png)
+
+<img src="/Media/horGraph.png" width="400"/>
