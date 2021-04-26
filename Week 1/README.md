@@ -141,7 +141,7 @@ France
 Sweden 
 ```
 
-Now try to print every country in reverse order(from right to left) u can use a loop of your choice. The output will be;
+Now try to print every country in reverse order(from right to left). You can use a loop of your choice. The output will be;
 
 ```
 Sweden 
