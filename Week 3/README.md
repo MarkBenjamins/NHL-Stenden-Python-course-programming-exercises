@@ -47,4 +47,6 @@ Your code should preform the commands in this dictionary. You should try to stop
 
 ## Exercise 3.2
 
-In this exercise we will expand our code from the last assignment. We will preform some error handling so the drone does not crash into the ground.
+In this exercise we will expand our code from the last assignment. 
+We will preform some error handling so the drone does not crash into the ground.
+
