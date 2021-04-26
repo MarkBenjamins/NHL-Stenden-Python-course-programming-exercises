@@ -25,7 +25,7 @@ command = {
 }
 ```
 
-If your code implements all of the different commands, you can expand the dictionary with different commands, like this;
+If your code implements all of the different commands, you can expand the dictionary with other commands, like this;
 
 ```python
 commandsDict = {
@@ -40,3 +40,5 @@ commandsDict = {
     9: {'right': 0, 'up': 0, 'down': 0, 'left': 0, 'forward': 0, 'back': 0, 'flip': '', 'cw': 0, 'ccw': 80}
 }
 ```
+
+Your code should preform the commands in this dictionary. You should try to stop the command from running if it runs 0.
