@@ -27,12 +27,8 @@ You are expected to get the following output as result:
 <img src="/Media/Exercise%202.1%20Week%202.png" width="300"/>
 
 ## Exercise 2.2 Shape
-<<<<<<< Updated upstream
 In this exercise we will use the simulation to draw shapes. 
-Your task is to replicate the following shapes for the Horizontal movement.
-=======
-In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement:
->>>>>>> Stashed changes
+Your task is to replicate the following shapes for the Horizontal movement:
 
 <img src="/Media/horGraph.png" width="300"/>
 
