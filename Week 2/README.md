@@ -61,6 +61,6 @@ By the red markers the drone should have reached an altitude of 120 cm.
 
 By the purple marker the drone should have dropped to an altitude of 60 cm.
 
-The size of one square on the map is 50 high by 40 width.
+The size of one square on the map is 50 cm long by 40 cm wide.
 
 <img src="/Media/MazeExercise.png" width="300"/>
