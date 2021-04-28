@@ -1,13 +1,14 @@
 # :pencil: Week 3 exercises 
 This week we will use our experience with the simulation to fly with the real drone. 
-We will preform some simple actions with the drone like flying, landing, flipping, and maneuvering in the air. 
-Doing thinks like this will make us comfortable with flying the drone.
+We will perform some simple actions with the drone like flying, landing, flipping, and maneuvering in the air. 
+Doing things like this will make us comfortable with flying the drone.
+We will also learn how to fly the drone by use of input commands. This will be done within the simulation environment.
 
 ## :gear: Drone connection setup
 
 ## Exercise 3.1 Dictionary drone flight
 
-The first exercise is to process the following command, this command is structured in a dictionary so we see all of the options at once. For more information on dictionaries, you can consult the example. You can see a command in the dictionary here, every key can have a value. You can only use a key once, if you use that key again, it will overwrite the original key's value.
+The first exercise is to process the command below. This command is structured in a dictionary so we can see all of the options at once. For more information on dictionaries, you can consult the example. As shown by the commands in the dictionary below, every key can have a value. You can only use a key once. If you choose to use the same key again, it will overwrite the original key's value.
 
 ```python
 command = {
@@ -27,7 +28,7 @@ command = {
 
 Your code should loop through the dictionary and execute according to the key and value pair. If the key is 'forward' and the value is 80, the drone should go forward by 80.
 
-You can expand the dictionary with other commands, like this;
+You can expand the dictionary with other commands, like this:
 
 ```python
 commandsDict = {
