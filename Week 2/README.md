@@ -42,3 +42,17 @@ In this exercise we will use a for loop to create circles. Try to recreate the f
 Use the following turns with degrees.
 
 <img src="/Media/angle's.png" width="300"/>
+
+## Exercise 2.4 Maze
+
+In this exercise your goal is to get through the maze and reach the end goal. This maze is designed so it will simulate a real life environment.
+
+You need to simulate the drone so it will reach the green marker without touching any black walls. Envision all the black parts as walls in real life. You wouldn't want to fly the drone against those.
+
+You will also notice there are some red and purple markers on the map. Red will be the indicator that the drone needs to reach a certain higher altitude. Purple on the other hand, will indicate that the drone needs to reach a lower altitude. These requirements need to be met, before its allowed to continue.
+
+By the red markers the drone should have reached an altitude of 120 cm.
+
+By the purple marker the drone should have dropped to an altitude of 60 cm.
+
+![Maze PNG](/Media/Maze Exercise.png)
