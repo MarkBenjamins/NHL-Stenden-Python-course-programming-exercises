@@ -2,7 +2,7 @@
 This week we will use our experience with the simulation to fly with the real drone. 
 We will perform some simple actions with the drone like flying, landing, flipping, and maneuvering in the air. 
 Doing things like this will make us comfortable with flying the drone.
-We will also learn how to fly the drone by use of input commands. This will be done within the simulation environment.
+We will also learn how to fly the drone through the use of input commands. This will be done within the simulation environment.
 
 ## Exercise 3.1 Dictionary drone flight
 
