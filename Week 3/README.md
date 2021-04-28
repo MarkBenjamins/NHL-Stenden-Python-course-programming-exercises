@@ -5,7 +5,7 @@ Doing thinks like this will make us comfortable with flying the drone.
 
 ## :gear: Drone connection setup
 
-## Exercise 3.1
+## Exercise 3.1 Dictionary drone flight 
 
 The first exercise is to process the following command, this command is structured in a dictionary so we see all of the options at once. For more information on dictionaries, you can consult the example. You can see a command in the dictionary here, every key can have a value. You can only use a key once, if you use that key again, it will overwrite the original key's value.
 
