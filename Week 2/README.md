@@ -55,4 +55,4 @@ By the red markers the drone should have reached an altitude of 120 cm.
 
 By the purple marker the drone should have dropped to an altitude of 60 cm.
 
-![Maze PNG](/Media/Maze Exercise.png)
+<img src="/Media/MazeExercise.png" width="300"/>
