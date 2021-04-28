@@ -5,7 +5,7 @@ Doing thinks like this will make us comfortable with flying the drone.
 
 ## :gear: Drone connection setup
 
-## Exercise 3.1 Dictionary drone flight 
+## Exercise 3.1
 
 The first exercise is to process the following command, this command is structured in a dictionary so we see all of the options at once. For more information on dictionaries, you can consult the example. You can see a command in the dictionary here, every key can have a value. You can only use a key once, if you use that key again, it will overwrite the original key's value.
 
@@ -48,9 +48,9 @@ Your code should preform the commands in this dictionary.
 ## Exercise 3.2 Error prevention 
 
 In this exercise we will expand our code from the last assignment. 
-You will preform some error prevention so the drone does not crash into the ground. 
+You will perform some error prevention so the drone does not crash into the ground. 
 You should also stop the code from running if the value is 0 or less.
 
-So make sure the drone cant:
-- Code command with a value of 0 or less cant be executed.
-- Validate if the down command is possible with the current hight of the drone.
+So make sure the following requirements are met:
+- Code commands with a value of 0 or less can't be executed.
+- Validate if the down command is possible with the current height of the drone.
