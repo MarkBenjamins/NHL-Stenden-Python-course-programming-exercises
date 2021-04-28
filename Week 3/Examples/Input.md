@@ -1,4 +1,4 @@
-# Input
+ # Input
 
 Python has several ways to have user input, it even has its own function to retrieve input from the console. 
 
@@ -17,7 +17,7 @@ As mentioned before, Python has a function to retrieve the input on the console.
 input()
 ```
 
-this essentially stops the program until the user provides input. Now we can use the input in a lot of ways, but as a simple example we will use it to provide a customized greeting message, as seen below;
+This essentially stops the program until the user provides input. Now we can use the input in a lot of ways, but as a simple example we will use it to provide a customized greeting message, as seen below;
 
 ```python
 print('What is your name?')
@@ -25,7 +25,7 @@ name = input()
 print('Hello, ' + name)
 ```
 
-this is of course a simple example and you can do a lot more with the input.
+This is of course a simple example and you can do a lot more with the input function.
 
 ## Keyboard input
 
@@ -41,7 +41,7 @@ This will install the library, now we have to import it in our code like this;
 import keyboard
 ```
 
-now we can use the functions that the library offers, for the input we will need the keyboard.is_pressed() function. This function requires the key you want to check as input and it will return true or false depending if the key is pressed. The following example prints 'You pressed q!' when you press the q key;
+Now we can use the functions that the library offers, for the input we will need the keyboard.is_pressed() function. This function requires the key you want to check as input and it will return true or false depending if the key is pressed. The following example prints 'You pressed q!' when you press the q key;
 
 ```python
 import keyboard
