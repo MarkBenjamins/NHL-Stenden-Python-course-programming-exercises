@@ -17,7 +17,7 @@ Lastly you will to locate the file directory and install it.
 3. Run the command `cd tello_sim`
 4. Run the command `pip install .`
 
-For more information go to [link](https://github.com/Fireline-Science/tello_sim)
+For more information go to [the tello_sim GitHub](https://github.com/Fireline-Science/tello_sim)
 
 ## Exercise 2.1 Square
 In the first exercise we fly a simple square in our simulation. 
