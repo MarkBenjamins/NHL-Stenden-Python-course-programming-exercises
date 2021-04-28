@@ -2,7 +2,7 @@
 
 Python has several ways to have user input, it even has its own function to retrieve input from the console. 
 
-Sometimes when you work with input, you have to continuously check if the user is doing something. If you have something that continuously checks something, you have to loop it. This is done with a while loop, like this;
+Sometimes when you work with input, you have to continuously check if the user is doing something. If you have something that continuously checks something, you have to loop it. This is done with a while loop, like this:
 
 ```python
 while True:
@@ -11,7 +11,7 @@ while True:
 
 ## Input()
 
-As mentioned before, Python has a function to retrieve the input on the console. The function is called the input function;
+As mentioned before, Python has a function to retrieve the input on the console. The function is called the input function:
 
 ```python
 input()
@@ -50,4 +50,4 @@ while True:
         print('You pressed q!')
 ```
 
-The keyboard library has a lot of functions we don't need, but can be very useful. You can see al of the possibilities [here](https://github.com/boppreh/keyboard)
+The keyboard library has a lot of functions we don't need, but can be very useful. You can see al of the possibilities [here](https://github.com/boppreh/keyboard).

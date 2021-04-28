@@ -11,7 +11,7 @@ from tello_sim import Simulator
 drone = Simulator()
 ```
 
-This will show the following output;
+This will show the following output:
 
 ```
 Hi! My name is TelloSim and I am your training drone.
@@ -21,13 +21,13 @@ I am running your "command" command.
 ```
 
 ## :rocket: Takeoff
-As we can see the drone is ready to take off;
+As we can see the drone is ready to take off:
 
 ```python
 drone.takeoff()
 ```
 
-This will show the following output;
+This will show the following output:
 
 ```
 Get ready for takeoff!
@@ -41,7 +41,7 @@ Now the drone is ready to fly and we can preform several commands.
 There are several commands to fly in the air, we have separated them in four categories.
 
 ### :left_right_arrow: Horizontal flying
-We can use the forward command to fly forward, the back command to fly backwards, the right command to fly to the right and the left command to fly to the left, all in centimeters.
+We can use the forward command to fly forward, the back command to fly backwards, the right command to fly to the right and the left command to fly to the left, all in centimeters. As shown below:
 
 ```python
 drone.forward(40)
@@ -51,14 +51,14 @@ drone.left(40)
 ```
 
 ### :arrow_up_down: Vertical flying
-We can use the up and down commands to change the drone's altitude, in centimeters.
+We can use the up and down commands to change the drone's altitude, in centimeters. As shown below:
 
 ```python
 drone.up(40)
 drone.down(40)
 ```
 
-The drone can also preform a flip operation so it makes a loop in the air, in the direction you choose.
+The drone can also preform a flip operation so it makes a loop in the air, in the direction you choose. As shown below:
 
 ```python
 direction = "f"
@@ -67,7 +67,7 @@ drone.flip(direction)
 ```
 
 ### :arrows_counterclockwise: Turning
-We can use the cw command to turn clockwise and the ccw command to turn counterclockwise, in amount of degrees.
+We can use the cw command to turn clockwise and the ccw command to turn counterclockwise, in amount of degrees. As shown below:
 
 ```python
 drone.cw(90)
@@ -75,7 +75,7 @@ drone.ccw(90)
 ```
 
 ### :floppy_disk: Data
-We can also retrieve data like positions with the following commands;
+We can also retrieve data like positions with the following commands:
 
 ```python
 # Return the current altitude.
@@ -101,7 +101,7 @@ drone.command_log
 ```
 
 ## :chart_with_upwards_trend: Graph
-When you execute a movement command the drone simulator will create a graph where you can see the path the drone followed, here are some examples;
+When you execute a movement command the drone simulator will create a graph where you can see the path the drone followed, here are some examples:
 
 ### vertical
 
