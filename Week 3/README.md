@@ -58,19 +58,19 @@ So make sure the following requirements are met:
 - Validate if the down command is possible with the current height of the drone.
 - Validate if the up command is possible with the current height of the drone.
 
-### Exercise 3.3 Commands through input
+## Exercise 3.3 Commands through input
 
 In this exercise we will be sending commands to the simulation through the use of real-time inputs. 
 For further explanation, observe the example provided in the examples folder. 
 This exercise will consist of two parts.
 
-#### Part One:
+### Part One:
 
 For the first part of the exercise, you will need to create a program that allows commands to be written within the command line. 
 
 - You should be capable of moving the drone through the simulation while the application is running. 
 
-#### Part Two:
+### Part Two:
 
 For the second part of the exercise, you will need to remodel the program so that the commands will be send by use of keyboard inputs. 
 
