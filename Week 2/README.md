@@ -34,7 +34,7 @@ You also have to replicate the following vertical shape, edit you code so it doe
 
 <img src="/Media/verGraph.png" width="300"/>
 
-## Exercise 2.3 circle
+## Exercise 2.3 Circle
 In this exercise we will use a for loop to create circles. Try to recreate the following shape with a nested for loop.
 
 <img src="/Media/LoopShape.png" width="300"/>
