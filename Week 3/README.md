@@ -48,9 +48,12 @@ Your code should preform the commands in this dictionary.
 ## Exercise 3.2 Error prevention 
 
 In this exercise we will expand our code from the last assignment. 
-You will perform some error prevention so the drone does not crash into the ground. 
+You will perform some error prevention so the drone does not crash into the ground or ceiling. 
 You should also stop the code from running if the value is 0 or less.
 
 So make sure the following requirements are met:
 - Code commands with a value of 0 or less can't be executed.
+- The drone is not allowd to go heigher then 2000 cm.
+- The done cannot go verder then 2000 cm at once.
 - Validate if the down command is possible with the current height of the drone.
+- Validate if the up command is possible with the current height of the drone.
