@@ -15,7 +15,7 @@ Next you create a new Python file in which you'll write your code.
 When you are done with your code, you'll run it to see if it works. 
 For additional explanation, consult the gif below.
 
-For more information go to [link](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html) 
+For more information go to [this website](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html) 
 
 ![Gif](/Media/Python_gif_1.gif)
 
