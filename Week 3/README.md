@@ -4,8 +4,6 @@ We will perform some simple actions with the drone like flying, landing, flippin
 Doing things like this will make us comfortable with flying the drone.
 We will also learn how to fly the drone by use of input commands. This will be done within the simulation environment.
 
-## :gear: Drone connection setup
-
 ## Exercise 3.1 Dictionary drone flight
 
 The first exercise is to process the command below. This command is structured in a dictionary so we can see all of the options at once. For more information on dictionaries, you can consult the example. As shown by the commands in the dictionary below, every key can have a value. You can only use a key once. If you choose to use the same key again, it will overwrite the original key's value.
