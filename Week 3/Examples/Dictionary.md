@@ -3,7 +3,7 @@ In the example below we are trying to go right 40, left 20, forward 25 then righ
 The problem that arises here is that you can only use a key once.
 If used more, then the last used time will just simple overwrite the other uses.
 
-Example List.
+Example List:
 
 ```python
 ExampleListOverwrite = {
@@ -14,7 +14,7 @@ ExampleListOverwrite = {
 }
 ```
 
-So what happens here is that the drone will perform this.
+So what happens here is that the drone will perform this:
 
 ```
 15 to the right
@@ -30,7 +30,7 @@ The dictionary we are going to use for the exercises is a multidimensional list.
 
 Every list is composed of a key and an value. This makes it so we can access the values through the keys from each list.
 
-Example dictionary.
+Example dictionary:
 
 ```python
 ExampleDictionary = {
@@ -44,7 +44,7 @@ In the dictionary we are defining the key as the command we want the drone to pe
 
 As you can see in this dictionary, we have created multiple lists within our list. Doing this, allows us to use the same key name multiple times.  
 
-The drone will perform the outcome of the example.
+The drone will perform the outcome of the example:
 
 ```
 80 to the right
