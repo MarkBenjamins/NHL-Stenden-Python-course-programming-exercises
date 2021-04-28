@@ -1,5 +1,6 @@
 # :pencil: Week 2 exercises 
-This week we will learn to use a simulation that simulates the DJI Tello drone, using this simulation we will simulate some simple movements with the drone. 
+This week we will learn to use a simulation that simulates the DJI Tello drone. 
+Using this simulation we will simulate some simple movements with the drone. 
 
 ## :gear: Simulation setup
 To use the simulation, you'll need to download an library.
@@ -26,7 +27,8 @@ You are expected to get the following output as result.
 <img src="/Media/Exercise%202.1%20Week%202.png" width="300"/>
 
 ## Exercise 2.2 Shape
-In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement.
+In this exercise we will use the simulation to draw shapes. 
+Your task is to replicate the following shapes for the Horizontal movement.
 
 <img src="/Media/horGraph.png" width="300"/>
 
