@@ -52,5 +52,5 @@ You will preform some error prevention so the drone does not crash into the grou
 You should also stop the code from running if the value is 0 or less.
 
 So make sure the drone cant:
-- code command with a value of 0 or less cant be executed.
+- Code command with a value of 0 or less cant be executed.
 - Validate if the down command is possible with the current hight of the drone.
