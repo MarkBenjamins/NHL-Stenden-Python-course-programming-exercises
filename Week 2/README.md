@@ -19,13 +19,13 @@ Lastly you will to locate the file directory and install it.
 
 For more information go to [link](https://github.com/Fireline-Science/tello_sim)
 
-## Exercise 2.1 square
+## Exercise 2.1 Square
 In the first exercise we fly a simple square in our simulation. 
 You are expected to get the following output as result.
 
 <img src="/Media/Exercise%202.1%20Week%202.png" width="300"/>
 
-## Exercise 2.2 shape
+## Exercise 2.2 Shape
 In this exercise we will use the simulation to draw shapes, your job it to replicate the following shapes for the Horizontal movement.
 
 <img src="/Media/horGraph.png" width="300"/>
