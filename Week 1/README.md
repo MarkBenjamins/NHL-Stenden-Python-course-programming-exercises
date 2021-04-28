@@ -122,15 +122,15 @@ The next assignment is to print this with a for loop;
 3 3
 ```
 
-You can also loop through arrays, an array is a list of variables.
+You can also loop through lists, an list is a variable that contains multiple other variables.
 
-The last assignment is to loop through the given array with a for(each) loop;
+The last assignment is to loop through the given list with a for(each) loop;
 
 ```python
 countries = ["Netherlands", "Denmark", "Germany", "Belgium", "France", "Sweden"]
 ```
 
-First try to print every country in this array in order(from left to right). The output will be;
+First try to print every country in this list in order(from left to right). The output will be;
 
 ```
 Netherlands 
@@ -141,7 +141,7 @@ France
 Sweden 
 ```
 
-Now try to print every country in reverse order(from right to left) u can use a loop of your choice. The output will be;
+Now try to print every country in reverse order(from right to left). You can use a loop of your choice. The output will be;
 
 ```
 Sweden 
