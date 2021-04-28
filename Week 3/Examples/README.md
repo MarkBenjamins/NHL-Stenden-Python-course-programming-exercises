@@ -33,7 +33,7 @@ Every list is composed of a key and an value. This makes it so we can access the
 Example dictionary.
 
 ```python
-ExampleDir = {
+ExampleDictionary = {
     1: {'right': 80 }
     2: {'right': 40, 'left': 15 }
     3: {'left': 20 }
