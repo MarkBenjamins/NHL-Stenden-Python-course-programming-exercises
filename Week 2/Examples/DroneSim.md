@@ -37,6 +37,19 @@ My estimated takeoff altitude is 81 centimeters
 
 Now the drone is ready to fly and we can preform several commands.
 
+To land the drone we have to run the following command:
+
+```python
+drone.land()
+```
+
+This will show the following output:
+
+```
+I am running your "land" command.
+Here are the graphs of your flight! I can't wait to try this for real.
+```
+
 ## :airplane: Flying commands
 There are several commands to fly in the air, we have separated them in four categories.
 

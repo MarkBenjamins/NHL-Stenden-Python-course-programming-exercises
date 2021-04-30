@@ -30,7 +30,7 @@ You are expected to get the following output as result:
 In this exercise we will use the simulation to draw shapes. 
 Your task is to replicate the following shapes for the Horizontal movement:
 
-<img src="/Media/horGraph.png" width="300"/>
+<img src="/Media/Exercise2.png" width="300"/>
 
 You also have to replicate the following vertical shape, edit you code so it does both at the same time:
 
