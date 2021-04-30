@@ -1,6 +1,6 @@
 # If-Else 
 
-In Python there is also an If Else statement to compare values, the given values are;
+In Python there is also an If Else statement to compare values, the given values are:
 
 ```python
 x = 121
