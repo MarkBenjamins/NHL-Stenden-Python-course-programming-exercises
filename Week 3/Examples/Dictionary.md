@@ -3,7 +3,7 @@ In the example below we are trying to go right 40, left 20, forward 25 then righ
 The problem that arises here is that you can only use a key once.
 If used more, then the last used time will just simple overwrite the other uses.
 
-Example List:
+## Example List:
 
 ```python
 ExampleListOverwrite = {
@@ -30,7 +30,7 @@ The dictionary we are going to use for the exercises is a multidimensional list.
 
 Every list is composed of a key and an value. This makes it so we can access the values through the keys from each list.
 
-Example dictionary:
+## Example dictionary:
 
 ```python
 ExampleDictionary = {
