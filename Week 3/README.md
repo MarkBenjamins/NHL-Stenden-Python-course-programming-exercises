@@ -60,7 +60,7 @@ So make sure the following requirements are met:
 ## Exercise 3.3 Commands through input
 
 In this exercise we will be sending commands to the simulation through the use of real-time inputs. 
-For further explanation, observe the [example](/Examples/Input.md) provided in the examples folder. 
+For further explanation, observe the [example](/blob/main/Week%203/Examples/Input.md) provided in the examples folder. 
 This exercise will consist of two parts.
 
 ### Part One:
