@@ -3,7 +3,7 @@
 ***To use the simulator we first have to obtain it, how to do this is described in the [manual](/Week%202/Manual%20Simulation/README.md).***
 
 ## :earth_africa: Creation
-First we have to create the drone, this is done by importing the required library and assigning a variable as shown below;
+First we have to create the drone, this is done by importing the required library and assigning a variable as shown below:
 
 ```python
 from tello_sim import Simulator
