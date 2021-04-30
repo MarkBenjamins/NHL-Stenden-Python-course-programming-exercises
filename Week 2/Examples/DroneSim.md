@@ -1,6 +1,6 @@
 # How to use the simulator
 
-***To use the simulator we first have to obtain it, the way to do this is described in the [Exercise](/Week%202/README.md).***
+***To use the simulator we first have to obtain it, [this](/Week%202/README.md) exercise describes the way it is done.***
 
 ## :earth_africa: Creation
 First we have to create the drone, this is done by importing the required library and assigning a variable as shown below:
