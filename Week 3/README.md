@@ -4,7 +4,7 @@ We will perform some simple actions with the drone like flying, landing, flippin
 Doing things like this will make us comfortable with flying the drone.
 We will also learn how to fly the drone through the use of input commands. This will be done within the simulation environment.
 
-## Exercise 3.1 Dictionary drone flight
+## :closed_book: Exercise 3.1 Dictionary drone flight
 
 The first exercise is to process the command below. This command is structured in a dictionary so we can see all of the options at once. For more information on dictionaries, you can consult the example. As shown by the commands in the dictionary below, every key can have a value. You can only use a key once. If you choose to use the same key again, it will overwrite the original key's value.
 
@@ -44,7 +44,7 @@ commandsDict = {
 
 Your code should preform the commands in this dictionary. 
 
-## Exercise 3.2 Error prevention 
+## :no_entry_sign: Exercise 3.2 Error prevention 
 
 In this exercise we will expand our code from the last assignment. 
 You will perform some error prevention so the drone does not crash into the ground or ceiling. 
@@ -57,7 +57,7 @@ So make sure the following requirements are met:
 - Validate if the down command is possible with the current height of the drone.
 - Validate if the up command is possible with the current height of the drone.
 
-## Exercise 3.3 Commands through input
+## :cl: Exercise 3.3 Commands through input
 
 In this exercise we will be sending commands to the simulation through the use of real-time inputs. 
 For further explanation, observe the [example](/Week%203/Examples/Input.md) provided in the examples folder. 
