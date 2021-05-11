@@ -2,7 +2,7 @@
 
 In this manual we will describe how you can execute your code on the drone. 
 
-## Assemble the groups
+## :family_man_woman_girl_boy:Assemble the groups
 
 Before you can work with the drone, you have to assemble your groups:
 
@@ -14,7 +14,7 @@ Before you can work with the drone, you have to assemble your groups:
 
   
 
-## Setup your file
+## :gear:Setup your file
 
 Each group gets one file to execute code on the drone. In order to acquire the group file, follow the instructions below:
 
@@ -31,7 +31,7 @@ Each group gets one file to execute code on the drone. In order to acquire the g
 
 Now your code is ready to control the Tello drone, it will be executed within three minutes.
 
-## Code execution
+## :man_technologist:Code execution 
 
 The pushed code will be executed automatically. Every 3 minutes the system will scan the repository for changed files. The system will then detect those changed files and place them in the system queue. The system queue is continuously executed through the Jenkins pipeline. The file's in front of the system queue will be run and the code will be executed onto the drone.
 
