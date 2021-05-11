@@ -10,7 +10,7 @@ Before you can work with the drone, you have to assemble your groups:
 
 - Ask the corresponding teacher for permission to receive a groups number.
 
-- Receive the rights to access the GitHub page where you can push code to the drone.
+- Receive the rights to access the GitHub page where you can push your code for the drone.
 
   
 
