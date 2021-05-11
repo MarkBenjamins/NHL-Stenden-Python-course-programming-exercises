@@ -18,7 +18,7 @@ Before you can work with the drone, you have to assemble your groups:
 
 Each group gets one file to execute code on the drone. In order to acquire the group file, follow the instructions below:
 
-1. Visit [this]( [https://github.com/SydneyM123/p-tff_ci_public](https://github.com/SydneyM123/p-tff_ci_public)) GitHub page.
+1. Visit [this](https://github.com/SydneyM123/p-tff_ci_public) GitHub page.
 
 2. Clone the repository.
 
