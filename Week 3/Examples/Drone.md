@@ -6,7 +6,7 @@ In this manual we will describe how you can execute your code on the drone.
 
 Before you can work with the drone, you have to assemble your groups:
 
-- Form a group with around 4 á 5 other students.
+- Form a group with around 4 to 5 other students.
 
 - Ask the corresponding teacher for permission to receive a groups number.
 
