@@ -22,7 +22,7 @@ Each group gets one file to execute code on the drone. In order to acquire the g
 
 2. Clone the repository.
 
-3. Create a new Python file called group + your specific groups number. (for example group1.py)
+3. Create a new Python file called group + your specific group number. (for example group1.py)
 
    *DISCLAIMER: Make sure your file name is unique within the entire repository.*
 
