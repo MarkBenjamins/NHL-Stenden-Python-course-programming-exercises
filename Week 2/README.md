@@ -20,13 +20,13 @@ Lastly you will to locate the file directory and install it.
 
 For more information go to [the tello_sim GitHub](https://github.com/Fireline-Science/tello_sim)
 
-## Exercise 2.1 Square
+## :black_square_button:Exercise 2.1 Square
 In the first exercise we fly a simple square in our simulation. 
 You are expected to get the following output as result:
 
 <img src="/Media/Exercise%202.1%20Week%202.png" width="300"/>
 
-## Exercise 2.2 Shape
+## :house:Exercise 2.2 Shape
 In this exercise we will use the simulation to draw shapes. 
 Your task is to replicate the following shapes for the Horizontal movement:
 
@@ -36,7 +36,7 @@ You also have to replicate the following vertical shape, edit you code so it doe
 
 <img src="/Media/verGraph.png" width="300"/>
 
-## Exercise 2.3 Circle
+## :white_circle:Exercise 2.3 Circle
 In this exercise we will use a for loop to create circles. Try to recreate the following shape with a nested for loop:
 
 <img src="/Media/LoopShape.png" width="300"/>
@@ -45,7 +45,7 @@ Use the following turns with degrees:
 
 <img src="/Media/angle's.png" width="300"/>
 
-## Exercise 2.4 Maze
+## :world_map::question:Exercise 2.4 Maze
 
 In this exercise your goal is to get through the maze and reach the end goal. This maze is designed so it will simulate a real life environment.
 
