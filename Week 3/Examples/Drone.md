@@ -18,3 +18,44 @@ notes (anders dan simulatie):
 - connection manual ip/poort
 
 
+
+#### Assemble the groups
+
+Form a group with around 4 á 5 other students.
+
+Ask the corresponding teacher for permission to receive a groups number.
+
+Receive the rights to access the GitHub page where you can push code to the drone.
+
+
+
+#### Setup your file
+
+Visit the GitHub page [https://github.com/SydneyM123/p-tff_ci_public](https://github.com/SydneyM123/p-tff_ci_public)
+
+Clone the repository.
+
+Create a new Python file called group + your specific groups number. (for example group1.py)
+
+*DISCLAIMER: Make sure your file name is unique within the entire repository.*
+
+Commit your changes and push the file to the repository.
+
+
+
+#### Code execution
+
+The pushed code will be executed automatically.
+
+Every 3 minutes the system will scan the repository for changed files.
+
+The system will detect changed files and place them in the system queue.
+
+The system queue will be executed through the Jenkins pipeline.
+
+The top file's code in the system queue will be run unto the drone.
+
+Please contact the teacher if your file is not executed.
+
+
+
