@@ -19,7 +19,7 @@ The final assignment will also teach the students the basics of AI and the Stude
 - Cody Vos [GitHub](https://github.com/qwertyoriuop)
 
 ## :bookmark_tabs: Additional resources
-- How to create and run your first Python Project in PyCharm [Link](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html)
+- How to create and run your first Python project in PyCharm [Link](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html)
 - Tello drone simulation [Link](https://github.com/Fireline-Science/tello_sim)
 - GitHub page for executing code with the drone [Link](https://github.com/SydneyM123/tello-code-execution/blob/master/README.md)
 - Tello drone user manual [Link](/Week%202/Manual%20Drone/Tello%20User%20Manual%20v1.4.pdf)
