@@ -18,5 +18,8 @@ The final assignment will also teach the students the basics of AI and the Stude
 - Thomas Luchies [GitHub](https://github.com/ThomasLuchies)
 - Cody Vos [GitHub](https://github.com/qwertyoriuop)
 
+## additional resources
+- [GitHub page for executing code](https://github.com/SydneyM123/tello-code-execution/blob/master/README.md)
+
 ## :page_with_curl: License
 [MIT](https://choosealicense.com/licenses/mit/)
