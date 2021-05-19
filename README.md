@@ -25,7 +25,7 @@ The final assignment will also teach the students the basics of AI and the Stude
 - Tello drone simulation [Link](https://github.com/Fireline-Science/tello_sim)
 - Tello drone user manual [Link](/Week%202/Manual%20Drone/Tello%20User%20Manual%20v1.4.pdf)
 - Python keyboard library [Link](https://github.com/boppreh/keyboard)
-- GitHub page for executing code with the drone [Link](https://github.com/SydneyM123/tello-code-execution/blob/master)
+- GitHub page for executing code with the drone [Link](https://github.com/SydneyM123/tello-code-execution)
 
 ## :page_with_curl: License
 [MIT](https://choosealicense.com/licenses/mit/)
