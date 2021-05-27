@@ -1,0 +1,6 @@
+{
+    "local_port": "9000",
+    "tello_drone_ip": "192.168.10.1",
+    "tello_drone_port": "8889",
+    "connection_timeout_in_seconds": "5.0"
+}
