@@ -1,6 +1,6 @@
 # Connecting with the Tello drone
 
-In this manual we will describe how you can execute your code on the drone. 
+In this manual we will describe how you can connect with the Tello drone. 
 
 ## :family_man_woman_girl_boy:Assemble the groups
 
@@ -24,7 +24,7 @@ Each group gets one file to execute code on the drone. In order to acquire the g
 
 3. Create a new Python file called group + your specific group number. (for example group1.py)
 
-   *DISCLAIMER: Make sure your file name is unique within the entire repository.*
+   > DISCLAIMER: Make sure your file name is unique within the entire repository.
 
 4. Commit your changes and push the file to the repository.
 
