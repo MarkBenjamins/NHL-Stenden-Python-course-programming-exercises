@@ -13,7 +13,7 @@ In the first end assignment the drone has to follow the traffic cones to the fin
 
 This is an example of a course and how the drone should follow it:
 
-<img src="/Media/EndEX1.png" width="300"/>
+<img src="/Media/EndEX1.png" width="300" float="right"/>
 
 ## :construction: Obstacle course 
 
