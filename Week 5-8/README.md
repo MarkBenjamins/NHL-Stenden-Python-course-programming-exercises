@@ -3,6 +3,7 @@
 In the next few weeks of the module you are going to work on the end assignments. There are two assignments that each work with an AI. The assignments are very similar, in both cases the drone Has to follow a set of colored traffic cones to the finish. The difference is what the drone does when it detects the colored traffic cones. 
 
 ## :golf: Follow the traffic cones
+<img src="/Media/EndEX2.png" width="200" align="right"/>
 
 In the first end assignment the drone has to follow the traffic cones to the finish, while following the rules below:
 
@@ -13,9 +14,10 @@ In the first end assignment the drone has to follow the traffic cones to the fin
 
 This is an example of a course and how the drone should follow it:
 
-<img src="/Media/EndEX1.png" width="200" align="right"/>
+
 
 ## :construction: Obstacle course 
+<img src="/Media/EndEX2.png" width="200" align="right"/>
 
 In the second assignment the drone will have to traverse an obstacle course This time however, it should detect the different colored traffic cones and follow a different set of rules when it detects them.
 
@@ -28,5 +30,5 @@ In the second assignment the drone will have to traverse an obstacle course This
 
 This is an example of an obstacle course and how the drone should follow it:
 
-<img src="/Media/EndEX2.png" width="200" align="right"/>
+
 
