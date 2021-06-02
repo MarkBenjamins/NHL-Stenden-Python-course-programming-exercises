@@ -14,13 +14,13 @@ import tello_code_execution.py
 
 ## :open_file_folder:Using the Library content
 
-Now that the library is imported and setup, you'll have access to its functions. You'll now be able to send commands to the drone. This is done with the following command out the library.
+Now that the library is imported and setup, you'll have access to its functions. You'll now be able to send commands to the drone. This is done with the following command out the library:
 
 ```python
 send_command("actual command")
 ```
 
-Lets say you want to issue the command that will make the drone fly for 100 cm to the left. You can do this with the following command then.
+Lets say you want to issue the command that will make the drone fly for 100 cm to the left. You can do this with the following command then:
 
 ```python
 send_command("left 100")
