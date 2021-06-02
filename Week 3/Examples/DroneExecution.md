@@ -4,7 +4,7 @@ In this manual we will describe how you can execute your code on the drone.
 
 Because actually establishing the connection with the drone is already quite advanced programming, we have simplified the work for you. 
 
-### Import the Library
+## :closed_book:Import the Library
 
 The first step you'll have to take, is importing the predefined python library file that is made ready for you.  This is done through the following command:
 
@@ -12,7 +12,7 @@ The first step you'll have to take, is importing the predefined python library f
 import tello_code_execution.py
 ```
 
-### Using the Library content
+## :open_file_folder:Using the Library content
 
 Now that the library is imported and setup, you'll have access to its functions. You'll now be able to send commands to the drone. This is done with the following command out the library.
 
