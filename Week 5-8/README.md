@@ -8,7 +8,7 @@ In the first end assignment the drone has to traverse in an area that is 5 meter
 
 - The drone is not allowed to exit the area, your code should prevent it from leaving.
 - In the defined area, a set of four traffic cones will be placed at random. Three of the cones will be <span style="color:orangered">orange</span>, and the other cone will be <span style="color:mediumpurple">purple</span>.
-- If the drone encounters an <span style="color:orangered">orange</span> traffic cone, it should move towards it.
+- If the drone encounters an <h3 style="color:orangered">orange</h3> traffic cone, it should move towards it.
 - If the drone encounters two <span style="color:orangered">orange</span> traffic cones, it should prioritize the left cone.
 - If the drone encounters a <span style="color:mediumpurple">purple</span> traffic cone, it should move towards it, and land next to it.
 
