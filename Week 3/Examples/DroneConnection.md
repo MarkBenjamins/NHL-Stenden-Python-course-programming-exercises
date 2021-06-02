@@ -1,4 +1,4 @@
-# Executing code on the Tello drone
+# Connecting with the Tello drone
 
 In this manual we will describe how you can execute your code on the drone. 
 
