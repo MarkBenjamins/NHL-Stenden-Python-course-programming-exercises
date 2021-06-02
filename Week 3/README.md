@@ -77,7 +77,7 @@ For the second part of the exercise, you will need to remodel the program so tha
 
 ## :helicopter: Exercise 3.4 The real drone
 
-In this exercise we are going to upload our code to the real drone, this is done through the Jenkins pipeline. For an explanation on how this is done, please visit [this](/Week%203/Examples/Drone.md) example. 
+In this exercise we are going to upload our code to the real drone, this is done through the Jenkins pipeline. For an explanation on how this is done, please visit [this](/Week%203/Examples/DroneConnection.md) example. 
 
 >**Important** *When working with the real drone, contrary to the simulation, the drone does not preform the operations very precise. This is because of a lot of external factors like battery power, wind, air pressure, etc. The drone is very fragile, so it is important that it does not crash. With all of the previously mentioned external factors, you should **always** be careful when flying the drone or when you are making it fly with your code.*
 
