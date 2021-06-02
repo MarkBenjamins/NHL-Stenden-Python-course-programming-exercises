@@ -42,7 +42,7 @@ If your code contains errors, the pipeline will detect those errors and it will 
 - [ ] Add website link
 - [ ] Add possible login data
 
-*DISCLAIMER: If your code does not execute and you don't have any errors, please contact the teacher.*
+> *DISCLAIMER: If your code does not execute and you don't have any errors, please contact the teacher.*
 
 
 
