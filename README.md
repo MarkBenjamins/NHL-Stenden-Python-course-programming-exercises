@@ -23,7 +23,7 @@ The final assignment will also teach the students the basics of AI and the Stude
 - Create a student account for PyCharm [Link](https://www.jetbrains.com/shop/eform/students?_st=phGZYaLDwIFGzailE1uoJf-YSAMxYl0W9cCb_fmXojmwSBZwGwGLnwzHtxOrCGvc)
 - How to create and run your first Python project in PyCharm [Link](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html)
 - Tello drone simulation [Link](https://github.com/Fireline-Science/tello_sim)
-- Tello drone user manual [Link](/Manual%20Drone/Tello%20User%20Manual%20v1.4.pdf)
+- Tello drone user manual [Link](/Drone manuals/Tello%20User%20Manual%20v1.4.pdf)
 - Python keyboard library [Link](https://github.com/boppreh/keyboard)
 - GitHub page for executing code with the drone [Link](https://github.com/SydneyM123/tello-code-execution)
 
