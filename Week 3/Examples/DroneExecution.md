@@ -10,6 +10,8 @@ The first step you'll have to take, is importing the predefined python library f
 
 ```python
 import tello_code_execution
+
+tello = tello_code_execution()
 ```
 
 ## :open_file_folder:Using the Library content
@@ -17,13 +19,13 @@ import tello_code_execution
 Now that the library is imported and setup, you'll have access to its functions. You'll now be able to send commands to the drone. This is done with the following command out the library:
 
 ```python
-send_command("actual command")
+tello.send_command("actual command")
 ```
 
 Lets say you want to issue the command that will make the drone fly for 100 cm to the left. You can do this with the following command then:
 
 ```python
-send_command("left 100")
+tello.send_command("left 100")
 ```
 
 Now you can implement this in your code and push your projects to the GitHub. The drone should be able to understand and execute your code. 
