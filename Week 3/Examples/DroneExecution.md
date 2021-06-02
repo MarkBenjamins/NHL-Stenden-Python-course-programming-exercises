@@ -9,9 +9,7 @@ Because actually establishing the connection with the drone is already quite adv
 The first step you'll have to take, is importing the predefined python library file that is made ready for you.  This is done through the following command:
 
 ```python
-import tello_code_execution
-
-tello = tello_code_execution()
+import tello_code_execution as tello
 ```
 
 ## :open_file_folder:Using the Library content
