@@ -13,7 +13,7 @@ In the first end assignment the drone has to follow the traffic cones to the fin
 4. If the drone encounters a <span style="color:mediumpurple">purple</span> traffic cone, it should move towards it and land next to it.
 
 This is an example of a course and how the drone should follow it:
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 
 
