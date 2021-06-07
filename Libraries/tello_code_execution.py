@@ -7,7 +7,7 @@ tello_drone_port = None
 connection_timeout_in_seconds = None
 
 try:
-    config = json.load(open('tello_code_execonfig.json"))
+    config = json.load(open('config/tello_code_execonfig.json"))
     local_port = int(config["local_port"])
     tello_drone_ip = str(config["tello_drone_ip"])
     tello_drone_port = int(config["tello_drone_port"])
