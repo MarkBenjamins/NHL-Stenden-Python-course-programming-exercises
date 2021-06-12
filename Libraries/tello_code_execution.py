@@ -1,30 +1,57 @@
 import socket
 import json
+import time
 
 local_port = None
 tello_drone_ip = None
 tello_drone_port = None
-connection_timeout_in_seconds = None
+timeout = None
+s = None
 
 try:
-    config = json.load(open('config/tello_code_execonfig.json"))
+    config = json.load(open("config/tello_code_execonfig.json"))
     local_port = int(config["local_port"])
     tello_drone_ip = str(config["tello_drone_ip"])
     tello_drone_port = int(config["tello_drone_port"])
-    connection_timeout_in_seconds = float(config["connection_timeout_in_seconds"])
+    timeout = int(config["timeout"])
 except FileNotFoundError:
-    print("No tello-code-execution config file found.")
+    print("no tello-code-execution config file found")
+
+
+def connect():
+    global s
+    
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    s.setsockopt(socket.SOL_SOCKET, socket.SO_BINDTODEVICE, b'wlan0')
+    s.bind(("", local_port))
+    print(send_command("command"))
 
 
 def send_command(command:str) -> str:
-    if local_port and tello_drone_ip and tello_drone_port and connection_timeout_in_seconds:
-        conn = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        conn.bind(('', local_port))
-        conn.connect((tello_drone_ip, tello_drone_port))
-        conn.settimeout(connection_timeout_in_seconds)
-        conn.send(command.encode('ASCII'))
-        resp = conn.recv(1024)
-        return resp.decode(errors='replace').strip()
+    if local_port != None:
+        if tello_drone_ip != None:
+            if tello_drone_port != None:
+                if timeout != None:
+                    if s != None:
+                        s.connect((tello_drone_ip, tello_drone_port))
+                        s.settimeout(timeout)
+                        s.send(command.encode('ASCII'))
+                        r = s.recv(1024)
+                        return r.decode(errors='replace').strip()
+                        
+    print("invalid configuration")
+    return "error (from tello code execution code)"
 
-    print("Invalid configuration.")
-    return "Error"
+
+def disconnect():    
+    if s == None:
+        return
+    
+    s.shutdown(socket.SHUT_RDWR)
+    s.close()
+
+
+connect()
+print(send_command("takeoff"))
+print(send_command("land"))
+disconnect()
