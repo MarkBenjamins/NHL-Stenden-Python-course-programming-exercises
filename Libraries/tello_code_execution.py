@@ -49,9 +49,3 @@ def disconnect():
     
     s.shutdown(socket.SHUT_RDWR)
     s.close()
-
-
-connect()
-print(send_command("takeoff"))
-print(send_command("land"))
-disconnect()
