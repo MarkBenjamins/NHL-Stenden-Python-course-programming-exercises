@@ -24,6 +24,7 @@ def connect():
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     s.setsockopt(socket.SOL_SOCKET, socket.SO_BINDTODEVICE, b'wlan0')
     s.bind(("", local_port))
+    s.connect((tello_drone_ip, tello_drone_port))
     print(send_command("command"))
 
 
@@ -33,7 +34,6 @@ def send_command(command:str) -> str:
             if tello_drone_port != None:
                 if timeout != None:
                     if s != None:
-                        s.connect((tello_drone_ip, tello_drone_port))
                         s.settimeout(timeout)
                         s.send(command.encode('ASCII'))
                         r = s.recv(1024)
