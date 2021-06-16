@@ -35,7 +35,7 @@ There are a lot of commands the drone is able to execute, so here is a list that
 
   - ```takeoff``` (this command must always be executed first)
   - ```land``` (this command must always be executed last)
-  - ```flip { UP | DOWN | R | L }```
+  - ```flip { F | B | R | L }```
   - ```forward { units in CM }```
   - ```back { units in CM }```
   - ```left { units in CM }```
@@ -44,8 +44,6 @@ There are a lot of commands the drone is able to execute, so here is a list that
   - ```down { units in CM }```
   - ```cw { degrees to rotate }```
   - ```ccw { degrees to rotate }```
-  - ```speed { ... }```
-  - ```speed?```
 
 When your code has been executed it's necessary to disconnect from the drone, simply writing the following method call will do the work:
 
