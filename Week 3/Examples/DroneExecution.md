@@ -31,6 +31,21 @@ Lets say you want to issue the command that will make the drone fly for 100 cm t
 ```python
 tello.send_command("left 100")
 ```
+There are a lot of commands the drone is able to execute, so here is a list that contains all of them:
+
+  - takeoff (this command must always be executed first)
+  - land (this command must always be executed last)
+  - flip { up | down | r | l }
+  - forward { units in cm }
+  - back { units in cm }
+  - left { units in cm }
+  - right { units in cm }
+  - up { units in cm }
+  - down { units in cm }
+  - cw { degrees to rotate }
+  - ccw { degrees to rotate }
+  - speed { ... }
+  - speed?
 
 When your code has been executed it's necessary to disconnect from the drone, simply writing the following method call will do the work:
 
