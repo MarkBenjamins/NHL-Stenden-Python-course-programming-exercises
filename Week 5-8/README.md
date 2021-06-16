@@ -1,6 +1,6 @@
 # :checkered_flag: End assignments
 
-In the next few weeks of the module you are going to work on the end assignments. There are two assignments that each work with an AI. The assignments are very similar, in both cases the drone Has to follow a set of colored traffic cones to the finish. The difference is what the drone does when it detects the colored traffic cones. 
+In the next few weeks of the module you are going to work on the end assignments. There are two assignments that each work with an AI. The assignments are very similar, in both cases the drone Has to follow a set of <span style="color:orangered">orange</span> traffic cones to the finish. The difference is what the drone does when it detects the <span style="color:orangered">orange</span> traffic cones. 
 
 ## :golf: Follow the traffic cones
 
