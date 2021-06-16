@@ -20,7 +20,7 @@ Now that the library is imported and setup, you'll have access to its functions.
 tello.connect()
 ```
 
-You'll now be able to send commands to the drone. This is done with the following command out the library:
+You'll now be able to send commands to the drone. This is done with the following command from within the library:
 
 ```python
 tello.send_command("actual command")
