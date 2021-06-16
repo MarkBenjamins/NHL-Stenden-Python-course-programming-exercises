@@ -33,8 +33,8 @@ tello.send_command("left 100")
 ```
 There are a lot of commands the drone is able to execute, so here is a list that contains all of them:
 
-  - ```takeoff (this command must always be executed first)```
-  - ```land (this command must always be executed last)```
+  - ```takeoff``` (this command must always be executed first)
+  - ```land``` (this command must always be executed last)
   - ```flip { UP | DOWN | R | L }```
   - ```forward { units in CM }```
   - ```back { units in CM }```
