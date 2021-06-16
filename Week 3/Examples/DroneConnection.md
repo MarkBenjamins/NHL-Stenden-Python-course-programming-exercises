@@ -35,7 +35,7 @@ Now your code is ready to control the Tello drone, it will be executed within th
 
 The pushed code will be executed automatically. Every 3 minutes the system will scan the repository for changed files. The system will then detect those changed files through the Jenkins pipeline and if they don't have errors, they will be placed in the system queue. The system queue is continuously executed, the file in front of the system queue will be run and the code will be executed onto the drone.
 
-If your code contains errors, the pipeline will detect those errors and it will create an error message. To view these error messages you can visit the web interface from the Jenkins pipeline. To visit the Jenkins web interface, connect to the router which connects to the Raspberry Pi and click ![192.168.0.100:8080](this link). 
+If your code contains errors, the pipeline will detect those errors and it will create an error message. To view these error messages you can visit the web interface from the Jenkins pipeline. To visit the Jenkins web interface, connect to the router which connects to the Raspberry Pi and click ![this link](http://192.168.0.100:8080). 
 
 > *DISCLAIMER: If your code does not execute and you don't have any errors, please contact the teacher.*
 
