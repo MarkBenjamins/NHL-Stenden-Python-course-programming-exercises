@@ -17,12 +17,12 @@ This is an example of a course and how the drone should follow it:
 <img src="/Media/EndEX1.png" width="800"/>
 
 ## :construction: Obstacle course 
-In the second assignment the drone will have to traverse an obstacle course. This time however, it should detect the different colored traffic cones and follow a different set of rules when it detects them.
+In the second assignment the drone will have to traverse an obstacle course. This time however, it should detect the <span style="color:orangered">orange</span> traffic cones and follow a different set of rules when it detects them.
 
 1. In the defined area, a set of traffic cones will be placed at random, the cones will be <span style="color:orangered">orange</span> so the AI can detect them
 2. If the drone encounters an <span style="color:orangered">orange</span> traffic cone, it should avoid it and pass it on the left side.
 3. If the drone encounters two <span style="color:orangered">orange</span> cones, it should move in between them
-4. If the drone encounters more than two <span style="color:orangered">orange</span> cones, it should move in between the most left ones.
+4. If the drone encounters three or more <span style="color:orangered">orange</span> cones, it should move in between the most left ones.
 5. If the drone does not see any <span style="color:orangered">orange</span> cones, it should do a back flip and land.
 
 This is an example of an obstacle course and how the drone should follow it:
