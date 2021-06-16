@@ -35,13 +35,13 @@ There are a lot of commands the drone is able to execute, so here is a list that
 
   - takeoff (this command must always be executed first)
   - land (this command must always be executed last)
-  - flip { up | down | r | l }
-  - forward { units in cm }
-  - back { units in cm }
-  - left { units in cm }
-  - right { units in cm }
-  - up { units in cm }
-  - down { units in cm }
+  - flip { UP | DOWN | R | L }
+  - forward { units in CM }
+  - back { units in CM }
+  - left { units in CM }
+  - right { units in CM }
+  - up { units in CM }
+  - down { units in CM }
   - cw { degrees to rotate }
   - ccw { degrees to rotate }
   - speed { ... }
