@@ -14,16 +14,28 @@ import tello_code_execution as tello
 
 ## :open_file_folder:Using the Library content
 
-Now that the library is imported and setup, you'll have access to its functions. You'll now be able to send commands to the drone. This is done with the following command out the library:
+Now that the library is imported and setup, you'll have access to its functions. In order to connect to the drone, first write the following method call:
+
+```python
+tello.connect()
+```
+
+You'll now be able to send commands to the drone. This is done with the following command out the library:
 
 ```python
 tello.send_command("actual command")
 ```
 
-Lets say you want to issue the command that will make the drone fly for 100 cm to the left. You can do this with the following command then:
+Lets say you want to issue the command that will make the drone fly for 100 cm to the left. You can do this with the following command:
 
 ```python
 tello.send_command("left 100")
+```
+
+When your code has been executed it's necessary to disconnect from the drone, simply writing the following method call will do the work:
+
+```python
+tello.disconnect()
 ```
 
 Now you can implement this in your code and push your projects to the GitHub. The drone should be able to understand and execute your code. 
