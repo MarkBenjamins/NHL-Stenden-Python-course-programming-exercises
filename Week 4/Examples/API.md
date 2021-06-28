@@ -14,26 +14,17 @@ pip install libraryVanThomasEnCody
 
 Now you can use the functions in the library, there are a lot of different functions so you will always have what you need.
 
-### functienaam
+### Coordinates
 
 ```python
-library.functienaam
+library.getCoords()
 ```
 
-omschrijving functie
-
-### functienaam
-
-```python
-library.functienaam
-```
-
-omschrijving functie
+This functions return the coord from the API. The api gets this data directly from the drone camera and the AI
 
 ### functienaam
 
 ```python
-library.functienaam
+library.getFrame()
 ```
-
-omschrijving functie
+This function returns the frame from the video stream. It returns it as a picture, with this picture you can do what you want.
