@@ -67,7 +67,7 @@ This exercise will consist of two parts.
 
 For the first part of the exercise, you will need to create a program that allows commands to be written within the command line. 
 
-- You should be capable of moving the drone through the simulation while the application is running. 
+- You should be capable of moving the drone through the simulation while the application is running. The code should read commands from the command line.
 
 ### Part Two:
 
