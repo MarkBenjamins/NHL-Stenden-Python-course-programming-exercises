@@ -51,5 +51,5 @@ When your code has been executed it's necessary to disconnect from the drone, si
 tello.disconnect()
 ```
 
-Now you can implement this in your code and push your projects to the GitHub. The drone should be able to understand and execute your code. 
+Now you can implement this in your code and push your projects to the GitHub. The drone should be able to understand and execute your code. For more info on how to connect to the drone, visit the DroneConnection manual.
 
