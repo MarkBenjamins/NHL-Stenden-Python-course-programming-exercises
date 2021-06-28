@@ -52,7 +52,7 @@ In this exercise your goal is to get through the maze and reach the end goal. Th
 The blue marker will be your starting point. 
 
 You need to simulate the drone so it will reach the green marker (the end goal) without touching any black walls. Envision all the black parts as walls in real life. 
-You wouldn't want to fly the drone against those walls.
+You wouldn't want to fly the drone against those.
 
 You will also notice there are some red and purple markers on the map. 
 Red will be the indicator that the drone needs to reach a certain higher altitude. 
