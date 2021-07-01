@@ -10,12 +10,16 @@ In this exercise you have to get a picture from the drone AI through the API. Th
 First, you have to install the library like this:
 
 ```powershell
-pip install libraryVanThomas
+pip install connectionLibrary
 ```
 
 ### Using the library
 
 Now you can use the functions in the library, we made two different functions. We made a function to retrieve the coordinates on the camera. We also made a second function to get the frame from the camera, as a picture.
+first you have to import it, like this;
+```python
+import connectionLibrary
+```
 
 #### Coordinates
 
