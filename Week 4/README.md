@@ -7,7 +7,7 @@ In this exercise you have to get a picture from the drone AI through the API. Th
 
 ### Installing the library
 
-First, you have to install the library from the commandline, like this:
+First, you have to install the library from the command line, like this:
 
 ```powershell
 pip install connectionLibrary
